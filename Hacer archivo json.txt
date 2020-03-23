@@ -1,0 +1,2 @@
+ inicializar
+npm init 
